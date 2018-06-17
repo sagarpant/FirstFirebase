@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "398831672683",
+    "firebase_url": "https://fir-firstauto.firebaseio.com",
+    "project_id": "fir-firstauto",
+    "storage_bucket": "fir-firstauto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398831672683:android:0a6c1b5d492fad80",
+        "android_client_info": {
+          "package_name": "com.example.abc.firstfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398831672683-0015rdctkobgeultodqnhqjp82755c55.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "398831672683-0015rdctkobgeultodqnhqjp82755c55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhhqsGk_jyREY6ynkj0BiGdjXnXp7_9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
